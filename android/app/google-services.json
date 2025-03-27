@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "289021925040",
+    "project_id": "senorita-f4691",
+    "storage_bucket": "senorita-f4691.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289021925040:android:810c733f0414fcd3840d75",
+        "android_client_info": {
+          "package_name": "com.app.senoritaApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289021925040-2pit797a27agtt03bvhka3s7q12bvkm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.senoritaApp",
+            "certificate_hash": "da4aa5b39e3b21e08db373bd91ce20cb17de5dea"
+          }
+        },
+        {
+          "client_id": "289021925040-9brk94n1ug6jfpl071hjd1me5j263uf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAapcfW84JYYDDeGMU26pkj83b5D1Y4Ql0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289021925040-9brk94n1ug6jfpl071hjd1me5j263uf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
